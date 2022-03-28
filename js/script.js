@@ -25,8 +25,8 @@ for (let i = 1; i <= maxNum; i++) {
         console.log(numOf3);
       } 
       else 
-    //   app.append(i)
-    //   console.log(i);
+      app.append(i)
+      console.log(i);
 }
 
     
